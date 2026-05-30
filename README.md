@@ -1,4 +1,4 @@
-# Hi, I'm Mike Ncube 👋
+# Hi, I'm Mike S Ncube 👋
 
 **AI Engineer — Agentic AI, RAG & LLM backends in Python.** I build AI systems for environments where mistakes are expensive: insurance, claims, and regulated financial workflows.
 
@@ -11,16 +11,16 @@ My background is regulated funeral-assurance and financial-services engineering 
 
 ### 🛠️ What I work with
 
-**AI/LLM** — Agentic workflows (planner/executor/critic), RAG, structured outputs, eval harnesses · LangChain / LangGraph · OpenAI / Anthropic
-**Backend** — Python · FastAPI · Flask · Pydantic · REST/OpenAPI-first
-**Data** — Contract-first ETL · drift detection · PostgreSQL · pgvector · Pandas / Polars
-**Cloud & infra** — AWS (S3, Lambda, SQS, RDS) · Docker · Redis
+**AI/LLM** - Agentic workflows (planner/executor/critic), RAG, structured outputs, eval harnesses · LangChain / LangGraph · OpenAI / Anthropic
+**Backend** - Python · FastAPI · Flask · Pydantic · REST/OpenAPI-first
+**Data** - Contract-first ETL · drift detection · PostgreSQL · pgvector · Pandas / Polars
+**Cloud & infra** - AWS (S3, Lambda, SQS, RDS) · Docker · Redis
 
 ---
 
 ### 🚀 Systems worth looking at
 
-> Each repo is labelled with its scope — `production`, `reference architecture`, or `learning lab` — so you know exactly what you're looking at.
+> Each repo is labelled with its scope - `production`, `reference architecture`, or `learning lab` - so you know exactly what you're looking at.
 
 | Project | What it is | Status |
 |---|---|---|
@@ -33,6 +33,6 @@ My background is regulated funeral-assurance and financial-services engineering 
 
 ### 🎯 What I'm looking for
 
-Applied / Agentic AI Engineer · AI Platform Engineer · Data Engineer (AI systems) — on a team putting AI into high-stakes, regulated, or operationally serious products.
+Applied / Agentic AI Engineer · AI Platform Engineer · Data Engineer (AI systems) - on a team putting AI into high-stakes, regulated, or operationally serious products.
 
 *If that's your team, [let's talk](mailto:mikencube03@gmail.com).*
