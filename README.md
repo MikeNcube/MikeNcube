@@ -1,8 +1,8 @@
 # Hi, I'm Mike S Ncube 👋
 
-**AI Engineer — Agentic AI, RAG & LLM backends in Python.** I build AI systems for environments where mistakes are expensive: insurance, claims, and regulated financial workflows.
+**AI Engineer - Agentic AI, RAG & LLM backends in Python.** I build AI systems for environments where mistakes are expensive: insurance, claims, and regulated financial workflows.
 
-My background is regulated funeral-assurance and financial-services engineering — multi-step digital application flows, claims-workflow automation, and compliance-aware backends. That shaped how I build AI: **every model call is a fallible dependency, every run is auditable, every pipeline is a contract.**
+My background is regulated funeral-assurance and financial-services engineering - multi-step digital application flows, claims-workflow automation, and compliance-aware backends. That shaped how I build AI: **every model call is a fallible dependency, every run is auditable, every pipeline is a contract.**
 
 📍 Zimbabwe · South Africa (remote-first) · 📧 mikencube03@gmail.com
 🔗 [Portfolio](https://mike-portfolio-tawny.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mike-ncube-669563a7/)
